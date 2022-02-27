@@ -1,4 +1,6 @@
-### Hi there 👋
+Hello I'm Void<br>
+I make incremental games at the moment and you can check them out at https://mrbacon470.github.io/<br>
+My main project right now is a remaster of one of my most popular games Chemcremental you can also find it at the link above
 
 <!--
 **MrBacon470/MrBacon470** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
