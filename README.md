@@ -1,6 +1,6 @@
 Hello I'm Void<br><br>
 I make incremental games at the moment and you can check them out at https://mrbacon470.github.io/<br>
-:fire: - Currently working on: Coop Co 2.0<br>
+:fire: - Currently working on: Idle City Building Game<br>
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
